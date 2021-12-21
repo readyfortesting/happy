@@ -1,5 +1,5 @@
 
-public class aritmetikAtamaOperatorleri {
+public class AritmetikAtamaOperatorleri {
 
 	public static void main(String[] args) {
 		
