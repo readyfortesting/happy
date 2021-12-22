@@ -3,7 +3,7 @@ public class iliskiselOperatorler {
 
 	public static void main(String[] args) {
 		/*
-		 * Operatör	Açýklama
+		 * Operatör	Açýklama 
 			==		Eþit mi?
 			!=		Eþit-deðil mi?
 			>		Büyük mü?
